@@ -1,0 +1,7 @@
+{
+    "name": "SML Reader",
+    "author": "Maeyanie",
+    "version": "1.0.0",
+    "description": "Reads SML files.",
+    "api": 7
+}
